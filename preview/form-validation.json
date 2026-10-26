@@ -1,0 +1,154 @@
+{
+  "layouts": [
+    {
+      "label": "hosted",
+      "width": 320,
+      "overflow": false,
+      "brokenImages": [],
+      "overflowingHeadings": [],
+      "formFields": 9,
+      "action": "https://formsubmit.co/CreativeCollectivesPH@gmail.com",
+      "endpoint": "https://formsubmit.co/ajax/CreativeCollectivesPH@gmail.com"
+    },
+    {
+      "label": "hosted",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "overflowingHeadings": [],
+      "formFields": 9,
+      "action": "https://formsubmit.co/CreativeCollectivesPH@gmail.com",
+      "endpoint": "https://formsubmit.co/ajax/CreativeCollectivesPH@gmail.com"
+    },
+    {
+      "label": "hosted",
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "overflowingHeadings": [],
+      "formFields": 9,
+      "action": "https://formsubmit.co/CreativeCollectivesPH@gmail.com",
+      "endpoint": "https://formsubmit.co/ajax/CreativeCollectivesPH@gmail.com"
+    },
+    {
+      "label": "hosted",
+      "width": 1024,
+      "overflow": false,
+      "brokenImages": [],
+      "overflowingHeadings": [],
+      "formFields": 9,
+      "action": "https://formsubmit.co/CreativeCollectivesPH@gmail.com",
+      "endpoint": "https://formsubmit.co/ajax/CreativeCollectivesPH@gmail.com"
+    },
+    {
+      "label": "hosted",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "overflowingHeadings": [],
+      "formFields": 9,
+      "action": "https://formsubmit.co/CreativeCollectivesPH@gmail.com",
+      "endpoint": "https://formsubmit.co/ajax/CreativeCollectivesPH@gmail.com"
+    },
+    {
+      "label": "standalone",
+      "width": 320,
+      "overflow": false,
+      "brokenImages": [],
+      "overflowingHeadings": [],
+      "formFields": 9,
+      "action": "https://formsubmit.co/CreativeCollectivesPH@gmail.com",
+      "endpoint": "https://formsubmit.co/ajax/CreativeCollectivesPH@gmail.com"
+    },
+    {
+      "label": "standalone",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "overflowingHeadings": [],
+      "formFields": 9,
+      "action": "https://formsubmit.co/CreativeCollectivesPH@gmail.com",
+      "endpoint": "https://formsubmit.co/ajax/CreativeCollectivesPH@gmail.com"
+    },
+    {
+      "label": "standalone",
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "overflowingHeadings": [],
+      "formFields": 9,
+      "action": "https://formsubmit.co/CreativeCollectivesPH@gmail.com",
+      "endpoint": "https://formsubmit.co/ajax/CreativeCollectivesPH@gmail.com"
+    },
+    {
+      "label": "standalone",
+      "width": 1024,
+      "overflow": false,
+      "brokenImages": [],
+      "overflowingHeadings": [],
+      "formFields": 9,
+      "action": "https://formsubmit.co/CreativeCollectivesPH@gmail.com",
+      "endpoint": "https://formsubmit.co/ajax/CreativeCollectivesPH@gmail.com"
+    },
+    {
+      "label": "standalone",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "overflowingHeadings": [],
+      "formFields": 9,
+      "action": "https://formsubmit.co/CreativeCollectivesPH@gmail.com",
+      "endpoint": "https://formsubmit.co/ajax/CreativeCollectivesPH@gmail.com"
+    }
+  ],
+  "accessibility": [
+    {
+      "label": "hosted",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "label": "hosted",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "label": "standalone",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "label": "standalone",
+      "width": 1440,
+      "violations": []
+    }
+  ],
+  "form": {
+    "hostedEmptyValidation": {
+      "invalidCount": 5,
+      "status": ""
+    },
+    "hostedSuccess": {
+      "text": "Thank you — your project brief is in. Creative Collective will review it and reply by email.",
+      "busy": false,
+      "buttonDisabled": false,
+      "nameAfterReset": ""
+    },
+    "standaloneEmptyValidation": {
+      "invalidCount": 5,
+      "status": ""
+    },
+    "standaloneSuccess": {
+      "text": "Thank you — your project brief is in. Creative Collective will review it and reply by email.",
+      "busy": false,
+      "buttonDisabled": false,
+      "nameAfterReset": ""
+    },
+    "hostedError": {
+      "text": "We couldn’t send your brief right now. Please check your connection and try again.",
+      "busy": false,
+      "buttonDisabled": false
+    }
+  },
+  "consoleErrors": []
+}

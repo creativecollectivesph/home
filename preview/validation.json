@@ -1,0 +1,48 @@
+[
+  {
+    "width": 320,
+    "overflow": false,
+    "brokenImages": [],
+    "menuVisible": true
+  },
+  {
+    "width": 390,
+    "overflow": false,
+    "brokenImages": [],
+    "menuVisible": true
+  },
+  {
+    "width": 390,
+    "accessibility": []
+  },
+  {
+    "width": 768,
+    "overflow": false,
+    "brokenImages": [],
+    "menuVisible": false
+  },
+  {
+    "width": 1024,
+    "overflow": false,
+    "brokenImages": [],
+    "menuVisible": false
+  },
+  {
+    "width": 1440,
+    "overflow": false,
+    "brokenImages": [],
+    "menuVisible": false
+  },
+  {
+    "width": 1440,
+    "accessibility": []
+  },
+  {
+    "path": "projects.html",
+    "accessibility": []
+  },
+  {
+    "path": "privacy.html",
+    "accessibility": []
+  }
+]
